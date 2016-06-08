@@ -1,5 +1,5 @@
 ---
-object_name: Archipel armchair
+object_name: Archipel Bench
 designer: Mathieu Gabiot
 builder: Mathieu Gabiot
 category: bench
